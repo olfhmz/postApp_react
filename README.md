@@ -6,3 +6,5 @@
   <ul>Fetch запросы</ul>
   <ul>Bootstrap</ul>
 </li>
+
+Деплой: https://olfhmz.github.io/postApp_react/
