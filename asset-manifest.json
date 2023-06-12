@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/postApp_react/static/js/main.f3bdabad.js",
+    "static/js/787.072b343a.chunk.js": "/postApp_react/static/js/787.072b343a.chunk.js",
+    "index.html": "/postApp_react/index.html",
+    "main.f3bdabad.js.map": "/postApp_react/static/js/main.f3bdabad.js.map",
+    "787.072b343a.chunk.js.map": "/postApp_react/static/js/787.072b343a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3bdabad.js"
+  ]
+}
